@@ -1,0 +1,14 @@
+[
+  {
+    "article": "first-article",
+    "title": "First article",
+    "publishedAt": "September 1, 2022",
+    "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin in tellus sit amet nibh dignissim sagittis. In enim a arcu imperdiet malesuada. Mauris tincidunt sem sed arcu. Fusce wisi."
+  },
+  {
+    "article": "second-article",
+    "title": "Article no. 2",
+    "publishedAt": "September 12, 2022",
+    "text": "Nulla turpis magna, cursus sit amet, suscipit a, interdum id, felis. Nulla pulvinar eleifend sem. Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat. Maecenas sollicitudin. Vestibulum fermentum tortor id mi. Nulla pulvinar eleifend sem."
+  }
+]

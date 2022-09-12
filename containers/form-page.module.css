@@ -1,0 +1,13 @@
+.form,
+.input {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.form {
+  gap: 16px;
+}
+
+.input {
+  gap: 8px;
+}
