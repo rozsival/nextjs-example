@@ -39,19 +39,19 @@ export const FormPage: NextPage = () => {
         onSubmit={onSubmit}
       >
         <div className={styles.input}>
-          <label htmlFor="name">Name:&nbsp;</label>
+          <label htmlFor="name">Name:</label>
           <input id="name" name="name" type="text" required />
         </div>
         <div className={styles.input}>
-          <label htmlFor="email">Email:&nbsp;</label>
+          <label htmlFor="email">Email:</label>
           <input id="email" name="email" type="email" required />
         </div>
         <div className={styles.input}>
-          <label htmlFor="subject">Subject:&nbsp;</label>
+          <label htmlFor="subject">Subject:</label>
           <input id="subject" name="subject" type="text" />
         </div>
         <div className={styles.input}>
-          <label htmlFor="message">Message:&nbsp;</label>
+          <label htmlFor="message">Message:</label>
           <textarea id="message" name="message" required />
         </div>
         <div className={styles.input}>
