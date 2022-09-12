@@ -10,6 +10,6 @@ export const sendForm = async (
   if (Object.values(errors).length) {
     return { errors, status: FORM_STATUS_ERROR };
   }
-  console.log('Sending form...', request.body);
+  console.log('Sending form...\n', request.body);
   return { status: FORM_STATUS_SENT };
 };
